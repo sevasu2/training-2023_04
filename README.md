@@ -1,7 +1,7 @@
 実行コマンド
 
 ```
-$ docker-compose build
+docker-compose build
 ```
 
 ```
