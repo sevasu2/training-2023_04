@@ -5,15 +5,15 @@ docker-compose build
 ```
 
 ```
+docker-compose up -d
+```
+
+```
 docker-compose exec web rails db:create
 ```
 
 ```
 docker-compose exec web rails db:migrate
-```
-
-```
-docker-compose up -d
 ```
 
 ```
