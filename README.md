@@ -5,10 +5,6 @@ docker-compose build
 ```
 
 ```
-docker-compose run web bundle install
-```
-
-```
 docker-compose exec web rails db:create
 ```
 
